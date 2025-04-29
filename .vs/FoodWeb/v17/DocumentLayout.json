@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaswa\\OneDrive\\Desktop\\Navya\\ADBMS\\Food-Web-ASP.Net-MVC-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E2310C-CB63-4EED-AD48-1DA8C38847B6}|FoodWeb.csproj|c:\\users\\jaswa\\onedrive\\desktop\\navya\\adbms\\food-web-asp.net-mvc-master\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E2310C-CB63-4EED-AD48-1DA8C38847B6}|FoodWeb.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E2310C-CB63-4EED-AD48-1DA8C38847B6}|FoodWeb.csproj|C:\\Users\\jaswa\\OneDrive\\Desktop\\Navya\\ADBMS\\Food-Web-ASP.Net-MVC-master\\views\\homepagetest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2E2310C-CB63-4EED-AD48-1DA8C38847B6}|FoodWeb.csproj|solutionrelative:views\\homepagetest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jaswa\\AppData\\Local\\Temp\\2c9d46ec-6014-46ee-bef8-a4f0400d3af5_Dharanikota_Jaswanth_UniversityCateringProject.zip.af5\\UniversityCateringProject\\Models\\AdminLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jaswa\\OneDrive\\Desktop\\Navya\\ADBMS\\Food-Web-ASP.Net-MVC-master\\Views\\HomePageTest\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HomePageTest\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jaswa\\OneDrive\\Desktop\\Navya\\ADBMS\\Food-Web-ASP.Net-MVC-master\\Views\\HomePageTest\\Index.cshtml",
+              "RelativeToolTip": "Views\\HomePageTest\\Index.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAADwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T20:08:30.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\jaswa\\OneDrive\\Desktop\\Navya\\ADBMS\\Food-Web-ASP.Net-MVC-master\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\jaswa\\OneDrive\\Desktop\\Navya\\ADBMS\\Food-Web-ASP.Net-MVC-master\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:14:17.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\jaswa\\AppData\\Local\\Temp\\2c9d46ec-6014-46ee-bef8-a4f0400d3af5_Dharanikota_Jaswanth_UniversityCateringProject.zip.af5\\UniversityCateringProject\\Models\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\2c9d46ec-6014-46ee-bef8-a4f0400d3af5_Dharanikota_Jaswanth_UniversityCateringProject.zip.af5\\UniversityCateringProject\\Models\\AdminLogin.cs",
+              "ToolTip": "C:\\Users\\jaswa\\AppData\\Local\\Temp\\2c9d46ec-6014-46ee-bef8-a4f0400d3af5_Dharanikota_Jaswanth_UniversityCateringProject.zip.af5\\UniversityCateringProject\\Models\\AdminLogin.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\2c9d46ec-6014-46ee-bef8-a4f0400d3af5_Dharanikota_Jaswanth_UniversityCateringProject.zip.af5\\UniversityCateringProject\\Models\\AdminLogin.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-13T18:44:59.458Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
